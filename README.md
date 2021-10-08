@@ -1,10 +1,5 @@
 ## Result :
 
-![image.png](attachment:image.png)
+![plot](./img/img1.png)
+![plot](./img/img2.png)
 
-![image.png](attachment:image.png)
-
-
-```python
-
-```
